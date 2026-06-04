@@ -8,6 +8,7 @@
 
 (4) After Login, Fill the [Tile Name] , [Link] , [Email] , [Password] , [Note] , [Upload Image],
     Then click the [Save Tile] to save the information. You able to [Search] the Tile Name.
+    Click the Image able to  view the actual image.
 
 (5) To Backup, please click the [Choose Folder] button to select the backup folder.
 
