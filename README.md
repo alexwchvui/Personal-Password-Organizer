@@ -11,7 +11,7 @@
 
 (5) To Backup, please click the [Choose Folder] button to select the backup folder.
 
-(6) Click the [Backup] butoon to backup all information.
+(6) Click the [Backup] button to backup all information.
 
 (7) To Restore, click the [Restore] button and select the backup file.
 
