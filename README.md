@@ -15,7 +15,7 @@
 
 (7) To Restore, click the [Restore] button and select the backup file.
 
-(8) To logout, click the [Logout] button.
+(8) To logout, click the [Logout] button. If the page not active in 5 minutes, it will auto logout.
 
 (9) To clear all the information , click the [Erase Local Vault] at the Main Page.
 
